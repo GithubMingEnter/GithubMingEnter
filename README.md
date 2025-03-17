@@ -8,9 +8,10 @@
   I am Weiming Liao, a robotics engineer 
 ------
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GithubMingEnter&show_icons=true" alt="Beal. Mingshan He's Stats" >🏫 Bachelor: Northeastern University (Robot Eng)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=GithubMingEnter&show_icons=true" alt="Beal. Mingshan He's Stats" >
+🏫 Bachelor: HIT (EE)
 
-🌱 Master: YSU (ME)
+🌱 Master: YSU (CE)
 
 📫 Email: [![Gmail Badge](https://img.shields.io/badge/-mshe.research@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mshe.research@gmail.com)](18846183163@163.com)
 
