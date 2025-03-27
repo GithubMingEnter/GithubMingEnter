@@ -1,7 +1,7 @@
 <!-- ### Hi, <a href="https://charmve.github.io/" target="_blank">there</a> 👋 -->
 
 
-### Hey 👋, I am Weiming Liao (Donminic) He 😀.
+### Hey 👋, I am Weiming Liao (Donminic) 😀.
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;This+is+Weiming+Liao;Please+feel+free+to+contact;If+you+have+comments+or+questions;For+my+previous+contributions.)](https://git.io/typing-svg)
 
 ------
@@ -44,8 +44,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
 
 **Interests and Contributions**
-- Robotics and Control
-- PLanning
+- Robotics 
+- Planning and Control
+- History
+- Geography
 - IL && RL 
 🕹️🌏🏸
 
